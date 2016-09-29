@@ -7,7 +7,7 @@
       </class> 
       <class name="tests.Sendsmstests">
       </class>
-    <!-----er   <class name="tests.Way2smslogouttests">
+    <!----   <class name="tests.Way2smslogouttests">
       </class> -->
     </classes>
   </test> <!-- Default test(failed) -->
